@@ -23,11 +23,11 @@ public static int getHeight(Node root) {
 ---
 
 ## Input
-7  
-6 45 2 4 3 85 12 
+12  
+6 45 2 4 3 85 12 65 9 58 34 1 
 
 ## Output
-3 
+4 
 
 ---
 
